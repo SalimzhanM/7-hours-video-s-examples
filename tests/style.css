@@ -1,0 +1,8 @@
+.container {
+    margin-top: auto;
+    display: inline-block;
+    text-align: center;
+    background-color: black;
+    margin: 20px;
+    padding: 200px;
+}
